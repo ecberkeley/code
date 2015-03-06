@@ -1,5 +1,6 @@
-# code
-ecberkeley.org - the electronic campus
+# ecberkeley.org 
+##  :: Department of Computer Science Socialism (CSS)
 
-Visit us as (http://ecberkeley.org/)
+Visit us at [ecberkeley.org](http://ecberkeley.org/) - the electronic campus
+
 
