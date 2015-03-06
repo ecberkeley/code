@@ -3,4 +3,6 @@
 
 Visit us at [ecberkeley.org](http://ecberkeley.org/) - the electronic campus
 
+This is the open-source repository for code used in courses.
+
 
